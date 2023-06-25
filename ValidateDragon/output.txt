@@ -1,0 +1,1 @@
+{"errorMessage": "DragonValidationException, Duplicate dragon reported", "errorType": "DragonValidationException", "requestId": "a152a7bd-6a9f-439a-9446-657ec4241dd4", "stackTrace": ["  File \"/var/task/validateDragon.py\", line 33, in validate\n    raise DragonValidationException(\"Duplicate dragon reported\")\n"]}

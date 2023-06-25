@@ -1,0 +1,21 @@
+#invoke URL
+https://baggy765-1.s3.amazonaws.com/dragonsapp/index.html
+
+#Cognito Client
+4pf714a78k9je3b8hc7gg21j7j
+
+#cog domain
+https://baggy.auth.us-east-1.amazoncognito.com
+
+#ARN ADD
+"arn:aws:lambda:us-east-2:736217255025:function:AddDragon",
+
+#ARN VAL
+"arn:aws:lambda:us-east-2:736217255025:function:ValidateDragon"
+
+#ARN STATE
+arn:aws:lambda:us-east-2:736217255025:function:AddDragon
+
+#ARN ROLE
+arn:aws:iam::736217255025:role/dragons-apig-role
+
